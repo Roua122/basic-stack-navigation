@@ -6,9 +6,11 @@
 
 ## 📸 لقطات الشاشة (Project Showcase)
 
-![Screen1](secreenshots/nav1.png)
-![Screen2](screenshots/nav2.png)
-![Screen3](screenshots/nav3.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Roua122/basic-stack-navigation/main/screenshots/nav1.png" width="250" alt="Main Screen">
+  <img src="https://raw.githubusercontent.com/Roua122/basic-stack-navigation/main/screenshots/nav2.png" width="250" alt="Details Screen">
+  <img src="https://raw.githubusercontent.com/Roua122/basic-stack-navigation/main/screenshots/nav3.png" width="250" alt="Success SnackBar">
+</div>
 ---
 
 ## 📄 التقرير التقني (Technical Insights)
