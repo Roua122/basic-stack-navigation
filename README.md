@@ -6,11 +6,18 @@
 
 ## 📸 لقطات الشاشة (Project Showcase)
 
+
+
+## 📸 لقطات شاشة المشروع (Project Showcase)
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Roua122/basic-stack-navigation/main/screenshots/nav1.png" width="250" alt="Main Screen">
-  <img src="https://raw.githubusercontent.com/Roua122/basic-stack-navigation/main/screenshots/nav2.png" width="250" alt="Details Screen">
-  <img src="https://raw.githubusercontent.com/Roua122/basic-stack-navigation/main/screenshots/nav3.png" width="250" alt="Success SnackBar">
+  <img src="https://github.com/Roua122/basic-stack-navigation/blob/main/screenshots/nav1.png?raw=true" width="250">
+  <img src="https://github.com/Roua122/basic-stack-navigation/blob/main/screenshots/nav2.png?raw=true" width="250">
+  <img src="https://github.com/Roua122/basic-stack-navigation/blob/main/screenshots/nav3.png?raw=true" width="250">
 </div>
+
+
+
 ---
 
 ## 📄 التقرير التقني (Technical Insights)
