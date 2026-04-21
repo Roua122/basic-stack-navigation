@@ -6,10 +6,6 @@
 
 ## 📸 لقطات الشاشة (Project Showcase)
 
-
-
-
-## 📸 لقطات شاشة المشروع (Project Showcase)
 <div align="center">
   <img src="https://raw.githubusercontent.com/Roua122/basic-stack-navigation/main/screenshots/nav1.png" width="250" alt="الشاشة الرئيسية">
   <img src="https://raw.githubusercontent.com/Roua122/basic-stack-navigation/main/screenshots/nav2.png" width="250" alt="شاشة التفاصيل">
