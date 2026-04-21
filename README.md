@@ -6,11 +6,13 @@
 
 ## 📸 لقطات الشاشة (Project Showcase)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Roua122/basic-stack-navigation/main/screenshots/nav1.png" width="250" alt="الشاشة الرئيسية">
-  <img src="https://raw.githubusercontent.com/Roua122/basic-stack-navigation/main/screenshots/nav2.png" width="250" alt="شاشة التفاصيل">
-  <img src="https://raw.githubusercontent.com/Roua122/basic-stack-navigation/main/screenshots/nav3.png" width="250" alt="تنبيه الاشتراك">
-</div>
+[url=https://postimg.cc/47D2z3w3][img]https://i.postimg.cc/47D2z3w3/nav1.png[/img][/url]
+
+[url=https://postimg.cc/Kk6pnYQT][img]https://i.postimg.cc/Kk6pnYQT/nav2.png[/img][/url]
+
+[url=https://postimg.cc/r0BZSpgx][img]https://i.postimg.cc/r0BZSpgx/nav3.png[/img][/url]
+
+
 
 
 ---
