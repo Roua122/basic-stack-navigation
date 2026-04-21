@@ -6,13 +6,9 @@
 
 ## 📸 لقطات الشاشة (Project Showcase)
 
-
-<div align="center">
-  <img src="screenshots/nav1.png" >
-  <img src="screenshots/nav2.png" >
-  <img src="screenshots/nav3.png" >
-</div>
-
+![Screen1](secreenshots/nav1.png)
+![Screen2](screenshots/nav2.png)
+![Screen3](screenshots/nav3.png)
 ---
 
 ## 📄 التقرير التقني (Technical Insights)
