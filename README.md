@@ -12,6 +12,7 @@
   <img src="screenshots/nav2.png" width="250">
   <img src="screenshots/nav3.png" width="250">
 </div>
+
 ---
 
 ## 📄 التقرير التقني (Technical Insights)
