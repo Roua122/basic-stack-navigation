@@ -6,12 +6,12 @@
 
 ## 📸 لقطات الشاشة (Project Showcase)
 
-<div align="center">
-  <img src="screenshots/nav1.png" width="250" alt="الشاشة الرئيسية">
-  <img src="screenshots/nav2.png" width="250" alt="شاشة التفاصيل">
-  <img src="screenshots/nav3.png" width="250" alt="تنبيه الاشتراك">
-</div>
 
+<div align="center">
+  <img src="screenshots/nav1.png" width="250">
+  <img src="screenshots/nav2.png" width="250">
+  <img src="screenshots/nav3.png" width="250">
+</div>
 ---
 
 ## 📄 التقرير التقني (Technical Insights)
