@@ -8,9 +8,9 @@
 
 
 <div align="center">
-  <img src="screenshots/nav1.png" width="250">
-  <img src="screenshots/nav2.png" width="250">
-  <img src="screenshots/nav3.png" width="250">
+  <img src="screenshots/nav1.png" >
+  <img src="screenshots/nav2.png" >
+  <img src="screenshots/nav3.png" >
 </div>
 
 ---
