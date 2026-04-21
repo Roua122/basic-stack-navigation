@@ -5,13 +5,9 @@
 ---
 
 ## 📸 لقطات الشاشة (Project Showcase)
-https://i.postimg.cc/47D2z3w3/nav1.png[/img][/url]
-
-https://i.postimg.cc/Kk6pnYQT/nav2.png[/img][/url]
-
-https://i.postimg.cc/r0BZSpgx/nav3.png[/img][/url]
-
-
+[![nav1.png](https://i.postimg.cc/rss620r5/nav1.png)](https://postimg.cc/47D2z3w3)
+[![nav2.png](https://i.postimg.cc/kGGrP6bT/nav2.png)](https://postimg.cc/Kk6pnYQT)
+[![nav3.png](https://i.postimg.cc/NFFhv9HJ/nav3.png)](https://postimg.cc/r0BZSpgx)
 
 
 ---
